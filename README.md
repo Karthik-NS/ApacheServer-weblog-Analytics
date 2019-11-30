@@ -1,6 +1,10 @@
 # ApacheServer-weblog-Analytics
 ApacheServer weblog Analytics done using databricks community edition
 
+URL LINK to view solution for weblog analytics on databricks published note book 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6296063856523072/361869502939017/4160289645061764/latest.html
+
+
 This project will demonstrate to perform web server log analysis with Apache Spark.
 
 What are Weblogs? Weblogs are where web server (like apache) records events like visitors to your site and problems it's encountered. Your web server records all the visitors to your site. There you can see what files users are accessing, how the web server responded to requests, and other information like what kind of web browsers visitors are using, etc.
